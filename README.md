@@ -5,6 +5,9 @@ Kanban Board Application with React JS
 This project is an interactive Kanban board application built using React JS. It allows users to fetch and display data from the provided API https://api.quicksell.co/v1/internal/fronten and dynamically adjust the view based on the user's preferences.
 
 Functionality
+
+![image](https://github.com/prakash2709/my-reactapp/assets/96177649/c04f81f3-a6f4-4ad2-92af-c4ae45642a3c)
+
 The application provides the following features:
 
 Display Options: Users can click the "Display" button and choose from three distinct ways to group the data:
