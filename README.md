@@ -6,7 +6,8 @@ This project is an interactive Kanban board application built using React JS. It
 
 Functionality
 
-![image](https://github.com/prakash2709/my-reactapp/assets/96177649/39c6e062-f46d-4b08-848a-10ef4558753e)
+![image](https://github.com/prakash2709/my-reactapp/assets/96177649/23b1aadd-a01d-4bd2-a0f3-6e02702c604d)
+
 
 
 The application provides the following features:
@@ -21,7 +22,7 @@ Sorting: Users can sort the displayed tickets in two ways:
 By Priority: Arrange tickets in descending order of priority.
 By Title: Sort tickets in ascending order based on their title.
 
-![image](https://github.com/prakash2709/my-reactapp/assets/96177649/23b1aadd-a01d-4bd2-a0f3-6e02702c604d)
+![image](https://github.com/prakash2709/my-reactapp/assets/96177649/39c6e062-f46d-4b08-848a-10ef4558753e)
 
 Priority Levels: The priority levels for the tickets are defined as follows:
 
